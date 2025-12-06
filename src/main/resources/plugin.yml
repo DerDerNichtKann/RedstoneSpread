@@ -6,5 +6,5 @@ author: [DerDerNichtsKann]
 commands:
   spread:
     description: Spreads blocks in an organic branching pattern.
-    usage: /spread <Material> <Amount> [Physics] [Cleanup]
+    usage: /spread <Mat> <Amt> [Phys] [Clean] [Split%] [Multi]
     permission: spread.use
