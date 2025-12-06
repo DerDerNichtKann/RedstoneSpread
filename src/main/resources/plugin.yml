@@ -1,0 +1,10 @@
+name: RedstoneSpread
+version: '1.0'
+main: Dexter.redstoneSpread.RedstoneSpread
+api-version: '1.21'
+author: [DerDerNichtsKann]
+commands:
+  spread:
+    description: Spreads blocks in an organic branching pattern.
+    usage: /spread <Material> <Amount> [Physics] [Cleanup]
+    permission: spread.use
